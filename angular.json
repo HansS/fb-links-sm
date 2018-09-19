@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "fb-link-sm"
+  "defaultProject": "fb-link-sm",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
